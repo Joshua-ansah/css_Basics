@@ -1,0 +1,16 @@
+/* Types of colors
+Named
+color: green;
+
+Hex
+color: #fadd23
+
+RGB Colors
+color: rgb(234, 869, 781)
+
+RGBA
+background: rgba(0, 128, 0, 0.3) Green background with 30% opacity */
+
+h1{
+    color: rgb(234, 869, 781);
+}

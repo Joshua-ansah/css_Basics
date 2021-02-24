@@ -1,0 +1,18 @@
+body{
+    background-color: burlywood;
+    color: rgb(255, 255, 255);
+}
+
+div.mana{
+    background-color: cyan;
+    color: darkblue;
+}
+
+h1{
+    background-color: darkolivegreen;
+    color: deeppink;
+    margin: 0;
+}
+p{
+    background: rgba(0, 128, 0, 0.3) /* Green background with 30% opacity */;
+}
