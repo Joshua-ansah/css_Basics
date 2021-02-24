@@ -64,6 +64,6 @@ button{
     background-color: black;
     color: aqua;
     cursor: pointer;
-    margin-left: 250px;   
+    float: right;   
 }
 
